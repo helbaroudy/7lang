@@ -8,3 +8,11 @@ puts "Hello, World."
 
 #Print name 10 time
 10.times{puts "Hussein"}
+
+#Print sentences
+
+i = 1
+until i > 10
+	puts "This sentence is number #{i}"
+	i = i + 1
+end
