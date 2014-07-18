@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 #First exercise
 puts "Hello, World."
 
