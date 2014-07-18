@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 random_num = rand(1..10)
-puts "Guess the number between 0 and 10"
+puts "Guess a number between 0 and 10"
 user_num = gets.to_i
 
 times = 1
